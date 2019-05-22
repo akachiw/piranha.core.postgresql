@@ -1,2 +1,5 @@
-# piranha.core.postgresql
-PostgreSQL add-ons for Piranha
+# Welcome to Piranha.Core.PostgreSQL
+
+## About
+
+This repository contains PostgreSQL addons for Piranha.Core.
